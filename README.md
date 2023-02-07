@@ -1,1 +1,1 @@
-This repo helps us to learn about git
+My learning experience has been awesome in alx.
